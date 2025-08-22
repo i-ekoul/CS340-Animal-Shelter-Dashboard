@@ -106,3 +106,21 @@ Screenshots (in original submission) demonstrated:
 ---
 
 ## Repository Structure
+CS340-ProjectTwo-AnimalShelterDashboard/
+│
+├── ProjectTwoDashboard_Completed.ipynb # Final Jupyter Notebook
+├── mod7_project2.py # Python script version of the dashboard
+├── animal_shelter.py # CRUD Python module for MongoDB
+├── README_project2.docx # Original project writeup (Word format)
+└── README.md # This file (portfolio reflection + overview)
+
+
+---
+
+## Author
+**Emmalie Cole**  
+Bachelor of Science in Computer Science (Software Engineering)  
+Southern New Hampshire University  
+
+---
+
